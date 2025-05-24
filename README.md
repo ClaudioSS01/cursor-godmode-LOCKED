@@ -49,7 +49,7 @@
 24. **NÃO INSTALE** pacotes, nem faça build ou deploy **sem autorização explícita**.  
 25. **NUNCA EXIBA** chaves, senhas ou dados sensíveis em exemplos ou logs.
 26. **NUNCA** coloque chaves, apikey, tokens de validação em hardcodded nem para executar no frontend do lado do cliente.
-27. **SEMPRE** que houver a chance da aplicação der burlada pelo frontend por manupulação do usuario de ativar componentes ou qualquer coisa que possa comprometer a integridade dos dados quero que você **ME DE ALERTAS DE SEGURANÇA DOS DADOS DA APLICAÇÃO** e comece o aviso de segurança usando os emojis '💀💀💀' para chamar minha atenção e use uppercase.
+27. **SEMPRE** que houver a chance da aplicação ser burlada pelo frontend por manupulação do usuario de ativar componentes ou qualquer coisa que possa comprometer a integridade dos dados quero que você **ME DE ALERTAS DE SEGURANÇA DOS DADOS DA APLICAÇÃO** e comece o aviso de segurança usando os emojis '💀💀💀' para chamar minha atenção e use uppercase.
 
 ```
 
