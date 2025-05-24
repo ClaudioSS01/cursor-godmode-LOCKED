@@ -59,4 +59,4 @@
 * Dá uma **star** ✨ e compartilha para salvar outros devs.
 * Pull requests com melhorias de prompt são muito bem-vindas!
 
-**Viralize com responsabilidade.** 🚒
+
